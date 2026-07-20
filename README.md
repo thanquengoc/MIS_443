@@ -8,7 +8,7 @@ The repository for **MIS 443 - Business Data Management** practical assignments
 
 Below is the list of all practical assignments organized into separate directories:
 
-### 2. Individual Assignments
+### 1. Individual Assignments
 * **[Assignment 1: Database Setup & Load](./2232300060_Than%20Que%20Ngoc_MIS443_Assignment%201.pdf)** - Environment setup, database loading, and basic query exploration to identify characteristics of tables.
   * [👉 View SQL Script](./2232300060_Than%20Que%20Ngoc_MIS443_Assignment%201.sql)
 
@@ -19,7 +19,7 @@ Below is the list of all practical assignments organized into separate directori
 
 ### 3. Additional Self-Practice
 * **[Advanced SQL Practice Queries](./banking%20(individual).sql)** - Relational design and SQL practice queries on a commercial banking database **(Individual)**
- * [👉 View PDF Document](./banking%20(individual).pdf)
+  * [👉 View PDF Document](./banking%20(individual).pdf)
 
 
 
