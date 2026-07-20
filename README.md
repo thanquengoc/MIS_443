@@ -20,6 +20,9 @@ Below is the list of all practical assignments organized into separate directori
 ### 3. Additional Self-Practice
 * **[Advanced SQL Practice Queries](./banking%20(individual).sql)** - Relational design and SQL practice queries on a commercial banking database **(Individual)**
   * [👉 View PDF Document](./banking%20(individual).pdf)
+ 
+* [PostgreSQL to Python Connection](./postgresql-python-connection.ipynb) - Database Connectivity (Individual)
+
 
 
 
