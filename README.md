@@ -14,7 +14,12 @@ Below is the list of all practical assignments organized into separate directori
 
 
 ### 2. Group Activities
-* **[Activity 1: Banking Database](./MIS%20443_Activity%201_Group%20D2NB.pdf)** - Relational design and SQL practice queries on a commercial banking database. 
+* **[Activity 1: Banking Database](./MIS%20443_Activity%201_Group%20D2NB.pdf)** - Relational design and SQL practice queries on a commercial banking database.
+  
+
+### 3. Additional Self-Practice
+* **[Advanced SQL Practice Queries](./banking%20(individual).sql)** - Relational design and SQL practice queries on a commercial banking database **(Individual)**
+* [👉 View Word Document]](./banking%20(individual).docx)
  
 
 ## 🛠️ Technologies & Tools Used
