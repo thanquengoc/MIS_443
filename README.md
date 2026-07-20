@@ -14,4 +14,4 @@ Below is the list of all practical assignments organized into separate directori
 
 ## 🛠️ Technologies & Tools Used
 * **Database Management System:** PostgreSQL (v18)
-* **Database Administration Tool:** pgAdmin 4
+* **Database Administration Tool:** pgAdmin 4 
