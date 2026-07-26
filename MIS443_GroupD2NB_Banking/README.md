@@ -31,6 +31,15 @@
 ## Project Description
 This project recreates the Banking schema from SQL Practice Online in PostgreSQL using pgAdmin 4. The group designed and implemented five relational tables with appropriate primary keys, foreign keys, and constraints, populated them with CSV data, and completed all 30 SQL practice questions covering filtering, sorting, joins, aggregation, subqueries, window functions, and Common Table Expressions (CTEs).
 
+## At a Glance
+| Metric | Value |
+|---|---|
+| Tables | 5 |
+| SQL Questions Solved | 30 |
+| Branches | 5 |
+| Customers | 7 |
+| SQL Concepts Applied | JOINs, Subqueries, Window Functions, CTEs |
+
 ## Tools Used
 - **PostgreSQL** - database management system
 - **pgAdmin 4** - database creation and query execution
