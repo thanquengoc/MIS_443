@@ -36,10 +36,13 @@ This project recreates the Banking schema from SQL Practice Online in PostgreSQL
 ## At a Glance
 | Metric | Value |
 |---|---|
-| Tables | 5 |
+| Total Tables | 5 |
 | SQL Questions Solved | 30 |
-| Branches | 5 |
-| Customers | 7 |
+| Branches (Records) | 5 |
+| Customers (Records) | 7 |
+| Accounts (Records) | 8 |
+| Transactions (Records) | 8 |
+| Loans (Records) | 4 |
 | SQL Concepts Applied | JOINs, Subqueries, Window Functions, CTEs |
 
 ## Tools Used
