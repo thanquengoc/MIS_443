@@ -68,7 +68,8 @@ MIS443_GroupD2NB_Banking/
 │   └── loans.csv
 │
 ├── report/
-│   └── MIS443_GroupD2NB_Banking_Report.docx
+│   ├── MIS443_GroupD2NB_Banking_Report.docx
+│   └── erd.png
 │
 └── README.md
 ```
