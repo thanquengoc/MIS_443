@@ -12,12 +12,12 @@
 ## Group Information
 **Group Name:** D2NB
 
-| No. | Student's Name | Student's IRN |
-|---|---|---|
-| 1 | Vũ Đông Dương | 2032300044 |
-| 2 | Thân Quế Ngọc | 2232300060 |
-| 3 | Văn Vũ Quỳnh Như | 2232300079 |
-| 4 | Đỗ Hoàng Bảo | 2232300071 |
+| No. | Student's Name | Student's IRN | GitHub |
+|---|---|---|---|
+| 1 | Vũ Đông Dương | 2032300044 | [Repo](https://github.com/DuongvuBBS20/MIS443-Q4-2025_2026/tree/main/MIS443_GroupD2NB_Banking) |
+| 2 | Thân Quế Ngọc | 2232300060 | [Repo](https://github.com/thanquengoc/MIS_443/tree/main/MIS443_GroupD2NB_Banking) |
+| 3 | Văn Vũ Quỳnh Như | 2232300079 | [Repo](https://github.com/vvqnhu204/MIS_443/tree/main/Banking/Data) |
+| 4 | Đỗ Hoàng Bảo | 2232300071 | [Repo](https://github.com/dohoangbao2004-maker/MIS-443/tree/main/MIS443_GroupD2NB_Banking) |
 
 ## Project Description
 This project recreates the Banking schema from SQL Practice Online in PostgreSQL using pgAdmin 4. The group designed and implemented five relational tables with appropriate primary keys, foreign keys, and constraints, populated them with CSV data, and completed all 30 SQL practice questions covering filtering, sorting, joins, aggregation, subqueries, window functions, and Common Table Expressions (CTEs).
