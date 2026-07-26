@@ -1,9 +1,0 @@
-﻿transaction_id,account_id,transaction_type,amount,transaction_date
-1,5001,Deposit,500,1/5/2025
-2,5001,Withdrawal,200,1/8/2025
-3,5002,Deposit,1000,1/10/2025
-4,5003,Withdrawal,150,1/12/2025
-5,5004,Deposit,250,1/15/2025
-6,5005,Deposit,750,1/18/2025
-7,5001,Deposit,300,1/20/2025
-8,5007,Withdrawal,100,1/22/2025
