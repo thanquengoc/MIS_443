@@ -2,7 +2,7 @@
 
 ## Course & Assignment
 **Course:** MIS 443 - Business Data Management  
-**Assignment:** Assignment 2 - PostgreSQL Database Development and SQL Practice
+**Assignment:** Assignment 2 - PostgreSQL Database Development and SQL Practice  
 **Lecturer:** Mr. Dang Thai Doan  
 **Quarter:** Quarter 4, Academic Year 2025-2026  
 
