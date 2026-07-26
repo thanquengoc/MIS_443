@@ -19,7 +19,7 @@
 |---|---|---|---|
 | 1 | Vũ Đông Dương | 2032300044 | [View on GitHub](https://github.com/DuongvuBBS20/MIS443-Q4-2025_2026/tree/main/MIS443_GroupD2NB_Banking) |
 | 2 | Thân Quế Ngọc | 2232300060 | [View on GitHub](https://github.com/thanquengoc/MIS_443/tree/main/MIS443_GroupD2NB_Banking) |
-| 3 | Văn Vũ Quỳnh Như | 2232300079 | [View on GitHub](https://github.com/vvqnhu204/MIS_443/tree/main/Banking/Data) |
+| 3 | Văn Vũ Quỳnh Như | 2232300079 | [View on GitHub](https://github.com/vvqnhu204/MIS443-Q4-2025_2026/tree/main/MIS443_GroupD2NB_Banking) |
 | 4 | Đỗ Hoàng Bảo | 2232300071 | [View on GitHub](https://github.com/dohoangbao2004-maker/MIS-443/tree/main/MIS443_GroupD2NB_Banking) |
 
 
