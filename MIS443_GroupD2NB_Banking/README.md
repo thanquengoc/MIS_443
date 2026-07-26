@@ -1,4 +1,10 @@
-# MIS443_GroupD2NB_Banking
+# MIS443_GroupD2NB_Banking  
+
+**A PostgreSQL implementation of a commercial banking database, built for MIS 443 - Business Data Management.**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17-blue?logo=postgresql)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-4-lightgrey)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 ## Course & Assignment
 **Course:** MIS 443 - Business Data Management  
@@ -8,6 +14,9 @@
 
 ## Selected Schema
 **Banking** - a relational database simulating a commercial banking management system, consisting of five related tables: `branches`, `customers`, `accounts`, `loans`, and `transactions`.
+
+## Entity-Relationship Diagram
+![ERD](report/erd.png)
 
 ## Group Information
 **Group Name:** D2NB
