@@ -72,7 +72,7 @@ MIS443_GroupD2NB_Banking/
 │
 └── README.md
 ```
-
+ 
 ## Instructions for Running the SQL Scripts (How to Run)  
 **Step 1 - Set up the database**  
 Open pgAdmin 4, connect to your PostgreSQL server, and run `codes/01_create_database.sql` from the default `postgres` connection. This creates the `banking` database used throughout the project.
@@ -85,6 +85,8 @@ Run `codes/03_insert_data.sql` to populate every table with the project's sample
 
 **Step 4 - Run the practice queries**  
 Finally, execute `codes/04_questions_01_30.sql` to run through all 30 SQL practice questions in sequence and inspect their output in the Query Tool.
+
+> Note: Code formatting may vary slightly between questions in 04_questions_01_30.sql, as each question was written by the team member responsible for it.
 
 > Scripts must be run strictly in this order (01 → 02 → 03 → 04), since each step depends on objects created in the previous one.
 
