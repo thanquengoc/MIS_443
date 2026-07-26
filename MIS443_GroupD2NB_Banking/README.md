@@ -12,12 +12,6 @@
 **Lecturer:** Mr. Dang Thai Doan  
 **Quarter:** Quarter 4, Academic Year 2025-2026  
 
-## Selected Schema
-**Banking** - a relational database simulating a commercial banking management system, consisting of five related tables: `branches`, `customers`, `accounts`, `loans`, and `transactions`.
-
-## Entity-Relationship Diagram
-![ERD](report/erd.png)
-
 ## Group Information
 **Group Name:** D2NB
 
@@ -27,6 +21,14 @@
 | 2 | Thân Quế Ngọc | 2232300060 | [View on GitHub](https://github.com/thanquengoc/MIS_443/tree/main/MIS443_GroupD2NB_Banking) |
 | 3 | Văn Vũ Quỳnh Như | 2232300079 | [View on GitHub](https://github.com/vvqnhu204/MIS_443/tree/main/Banking/Data) |
 | 4 | Đỗ Hoàng Bảo | 2232300071 | [View on GitHub](https://github.com/dohoangbao2004-maker/MIS-443/tree/main/MIS443_GroupD2NB_Banking) |
+
+
+## Selected Schema
+**Banking** - a relational database simulating a commercial banking management system, consisting of five related tables: `branches`, `customers`, `accounts`, `loans`, and `transactions`.
+
+## Entity-Relationship Diagram
+![ERD](report/erd.png)
+
 
 ## Project Description
 This project recreates the Banking schema from SQL Practice Online in PostgreSQL using pgAdmin 4. The group designed and implemented five relational tables with appropriate primary keys, foreign keys, and constraints, populated them with CSV data, and completed all 30 SQL practice questions covering filtering, sorting, joins, aggregation, subqueries, window functions, and Common Table Expressions (CTEs).
