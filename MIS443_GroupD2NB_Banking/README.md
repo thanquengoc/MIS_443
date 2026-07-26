@@ -53,13 +53,20 @@ MIS443_GroupD2NB_Banking/
 └── README.md
 ```
 
-## Instructions for Running the SQL Scripts
-Run the scripts in pgAdmin 4 (Query Tool) in the following order:
+## Instructions for Running the SQL Scripts   
+**Step 1 — Set up the database**
+Open pgAdmin 4, connect to your PostgreSQL server, and run `codes/01_create_database.sql` from the default `postgres` connection. This creates the `banking` database used throughout the project.
 
-1. **`01_create_database.sql`** - creates the `Banking` database.
-2. **`02_create_tables_relationships.sql`** - creates all five tables with primary keys, foreign keys, and constraints.
-3. **`03_insert_data.sql`** - imports data from the CSV files in the `data/` folder into each table.
-4. **`04_questions_01_30.sql`** - contains all 30 SQL practice questions with solutions, numbered and commented.
+**Step 2 — Build the schema**
+Switch your connection to the newly created `banking` database, then execute `codes/02_create_tables_relationships.sql`. This script defines all five tables along with their primary keys, foreign keys, and constraints.
+
+**Step 3 — Load the data**
+Run `codes/03_insert_data.sql` to populate every table with the project's sample records. The raw values used here are the same ones found in the `data/` folder, provided separately as CSV files for reference or re-import.
+
+**Step 4 — Run the practice queries**
+Finally, execute `codes/04_questions_01_30.sql` to run through all 30 SQL practice questions in sequence and inspect their output in the Query Tool.
+
+> Scripts must be run strictly in this order (01 → 02 → 03 → 04), since each step depends on objects created in the previous one.
 
 > Ensure the CSV files in `data/` remain in the same relative folder when running the import script, as file paths are referenced from `data/`.
 
