@@ -53,7 +53,7 @@ MIS443_GroupD2NB_Banking/
 └── README.md
 ```
 
-## Instructions for Running the SQL Scripts   
+## Instructions for Running the SQL Scripts (How to Run)  
 **Step 1 - Set up the database**  
 Open pgAdmin 4, connect to your PostgreSQL server, and run `codes/01_create_database.sql` from the default `postgres` connection. This creates the `banking` database used throughout the project.
 
