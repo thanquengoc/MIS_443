@@ -70,8 +70,8 @@ MIS443_GroupD2NB_Chinook/
 │   └── chinook_analysis.ipynb
 │
 ├── report/
-│   ├── MIS443_GroupD2NB_Chinook_Report.pdf
-│   └── erd.png
+│   ├── MIS443_GroupD2NB_Chinook_Report.docx
+│   └── ERD.png
 │
 ├── slide/
 │   └── MIS443_GroupD2NB_Chinook_Presentation.pdf
