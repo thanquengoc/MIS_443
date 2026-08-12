@@ -25,7 +25,7 @@
 **Chinook** - a relational database simulating a digital media store, consisting of eleven related tables: `artist`, `album`, `track`, `genre`, `media_type`, `playlist`, `playlist_track`, `employee`, `customer`, `invoice`, and `invoice_line`.
 
 ## Entity-Relationship Diagram
-![ERD](report/erd.png)
+![ERD](report/ERD.png)
 
 ## Project Description
 This project studies and re-implements the Chinook database schema in PostgreSQL, then uses SQL and Python to answer real business questions about the store's performance - revenue trends, customer value by country, genre profitability, catalog utilization, sales agent performance, and revenue growth over time. The original data (loaded into schema `public`) is re-implemented into a redesigned schema (`new_chinook`) with explicit constraints, then cross-checked row-by-row against the source to confirm a faithful reproduction.
