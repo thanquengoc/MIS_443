@@ -105,4 +105,4 @@ Open `python/chinook_analysis.ipynb` in Jupyter Notebook. Update the database co
 [Chinook Database (lerocha/chinook-database)](https://github.com/lerocha/chinook-database)
 
 ## Acknowledgement
-This project was completed collaboratively as a group assignment for MIS 443. All members contributed to database design, SQL query development, Python analysis, testing, and documentation. Individual contributions are detailed in the Word report (Section 9: Responsibilities and contributions of each member).
+This project was completed collaboratively as a group assignment for MIS 443. All members contributed to database design, SQL query development, Python analysis, testing, and documentation. Individual contributions are detailed in the Word report (Section 10: Responsibilities and contributions of each member).
